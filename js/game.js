@@ -62,7 +62,7 @@ const Game = {
                 }
             }
             for (let i = 0; i < this.flameArr.length; i++) {
-                if (this.counter % 100 == 0) {
+                if (this.counter % 10 == 0) {
                     this.flameArr[i].animation();
                 }
             }
@@ -266,7 +266,7 @@ const Game = {
             this.clear();
             this.counter++;
             for (let i = 0; i < this.flameArr.length; i++) {
-                if (this.counter % 15 == 0) {
+                if (this.counter % 10 == 0) {
                     this.flameArr[i].animation();
                 }
             }                
