@@ -1,5 +1,7 @@
 # Plants and Fire
 
+<img src="./img/game-image.png" alt="game-image"/>
+
 ## Descripción:
 
 Plants and Fire es un juego creado íntegramente con Javascript a excepción de la estructura de HTML con canvas sobre la que está montado y un archivo CSS que empleamos para dimensionar el canvas.
